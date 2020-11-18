@@ -5,7 +5,7 @@ import plotly.plotly as py
 import plotly.graph_objs as go
 import numpy as np
 from scipy import stats
-import sys,bs4
+import sys
 from collections import OrderedDict
 
 def createSensitivity(csv_file,inputs,outputs):

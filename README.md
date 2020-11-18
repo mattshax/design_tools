@@ -24,6 +24,9 @@ sh get-docker.sh
 Now you should be able to run the design explorer tools using the commands below:
 
 ```
+# pull down the required containers
+docker pull mattshax/design_tools
+docker pull nginx
 
 # install DesignExplorer with custom patches
 ./DesignExplorer_patch/install.sh
