@@ -2,7 +2,7 @@
 
 echo "Installing DesignExplorer with Custom Patches..."
 
-#git clone https://github.com/tt-acm/DesignExplorer
+git clone https://github.com/tt-acm/DesignExplorer
 
 cp DesignExplorer_patch/index.html DesignExplorer/
 cp DesignExplorer_patch/logo.gif DesignExplorer/
