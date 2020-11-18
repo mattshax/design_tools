@@ -1,0 +1,7 @@
+DesignExplorer
+plots
+__pycache__
+inputs_doe.csv
+inputs_doe.png
+outputs_doe.csv
+outputs_sensitivity.html
